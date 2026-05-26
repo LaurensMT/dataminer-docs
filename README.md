@@ -2,7 +2,7 @@
 
 # DataMiner Docs
 
-Open-source source files for the [docs.dataminer.services](https://docs.dataminer.services/) documentation portal.
+Open-source documentation source files for the [docs.dataminer.services](https://docs.dataminer.services/) portal.
 
 ## Overview
 
